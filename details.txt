@@ -1,1 +1,0 @@
-https://github.com/Java-Techie-jt/cloud-config-server/blob/master/application.yml
